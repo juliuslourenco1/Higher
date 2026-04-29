@@ -1,0 +1,1 @@
+ALTER TABLE `business_profiles` ADD `isPremium` boolean DEFAULT false NOT NULL;

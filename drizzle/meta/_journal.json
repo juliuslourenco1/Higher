@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1776712361998,
+      "tag": "0000_left_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1776712499396,
+      "tag": "0001_wise_squadron_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1776713360381,
+      "tag": "0002_normal_micromax",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1776714183290,
+      "tag": "0003_glorious_synch",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1776716726278,
+      "tag": "0004_orange_sally_floyd",
+      "breakpoints": true
+    }
+  ]
+}
