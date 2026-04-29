@@ -5,6 +5,13 @@ import fs from "node:fs";
 import path from "node:path";
 import { defineConfig, type Plugin, type ViteDevServer } from "vite";
 import { vitePluginManusRuntime } from "vite-plugin-manus-runtime";
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  base: 'https://juliuslourenco1.github.io/Higher/', // REPLACE THIS with your actual repository name
+})
 
 // =============================================================================
 // Manus Debug Collector - Vite Plugin
